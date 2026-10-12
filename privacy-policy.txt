@@ -1,0 +1,35 @@
+# Privacy Policy for Echo
+
+**Last updated: October 12, 2026**
+
+Echo is a mobile game developed and published by **[Studio Name]**.
+
+## Information Collection and Use
+
+Echo does not require users to create an account or provide personal information.
+
+Echo does not collect, transmit, or store personal information on external servers operated by the developer.
+
+## Advertising and Analytics
+
+Echo does not currently display advertisements or use third-party advertising or analytics services.
+
+## Local Data Storage
+
+Echo may store game settings or progress locally on your device. This data is not transmitted to the developer.
+
+## Children's Privacy
+
+Echo does not knowingly collect personal information from children.
+
+## Changes to This Privacy Policy
+
+This privacy policy may be updated to reflect changes to the game, including the introduction of advertising or other services.
+
+Any changes will be published on this page with an updated revision date.
+
+## Contact
+
+For questions or concerns about this privacy policy, contact:
+
+notimpossiblegames@gmail.com
